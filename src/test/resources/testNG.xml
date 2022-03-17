@@ -8,6 +8,7 @@
 
             <class name="test.AddNewCarTest" />
             <class name="test.FindYourCarTest" />
+            <class name="test.FindYourCarTest" />
 
         </classes>
     </test>

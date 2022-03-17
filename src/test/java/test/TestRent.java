@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 public class TestRent extends TestBase {
 
-  /*  @Test(dataProvider = "dataRentingCar",dataProviderClass = MyDataProvider.class)
+    @Test(dataProvider = "dataRentingCar",dataProviderClass = MyDataProvider.class)
     public void rentWithLogin(String city, String dataFrom, String dataTo,
                               String email,String password,String name,String Lastname,String phoneNumber) {
         if (app.getUserHelper().isLogInPreset()) {
@@ -28,7 +28,7 @@ public class TestRent extends TestBase {
         app.getRentHelper().closeButtonClick();
 
 
-    }*/
+    }
 
 
     @Test

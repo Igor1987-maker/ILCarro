@@ -40,12 +40,14 @@ task reg(type: Test) {
         } else {
             suites 'src/test/resources/testNG.xml'
         }
-        if(project.hasProperty('browser')){
+        if (project.hasProperty('browser')) {
             systemProperty 'browser', "${browser}";
         }
+    }
+
         if(project.hasProperty('target')){
             systemProperty 'target', "${target}"
         }
 
-    }
+
 }

@@ -1,6 +1,7 @@
 package aplication;
 
 import org.openqa.selenium.*;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
@@ -48,6 +49,11 @@ new WebDriverWait(wd,10)
     private void fillCity(String city) {
         type(By.id("city"), city);
         click(By.xpath("//div[@class='pac-container pac-logo']//div[1]"));
+
+      /*  Actions actions = new Actions(wd);
+        actions.moveToElement(wd.findElement(By.cssSelector(".pac-item"))).click().perform();
+        pause(500);*/  //one more variant
+
     }
 
     public void selectDataInFuture(String city, String dataFrom, String dataTo){
@@ -59,7 +65,8 @@ new WebDriverWait(wd,10)
 
         int monthTake = Integer.parseInt(dataF[1]);
         int monthReturn = Integer.parseInt(dataT[1]);
-        int monthCurrent = LocalDate.now().getMonthValue();
+
+        int monthCurrent = LocalDate.now().getMonthValue(); //get cuurent date from system
 
         click(By.id("dates"));
         choseMonth(monthTake, monthCurrent);

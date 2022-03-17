@@ -37,7 +37,7 @@ public class LoginTest extends TestBase {
 
 
 
-    @Test//(dataProvider = "dataLoginCVS",dataProviderClass = MyDataProvider.class)
+    @Test(dataProvider = "dataLoginCVS",dataProviderClass = MyDataProvider.class)
     public void negativeLoginWrongPassword(String email, String password) {
         {
             app.getUserHelper().openLoginForm();

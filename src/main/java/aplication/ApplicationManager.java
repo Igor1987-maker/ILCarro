@@ -28,7 +28,7 @@ public class ApplicationManager {
     public ApplicationManager(String browser) {
 
         this.browser = browser;
-    properties= new Properties();
+    properties = new Properties();
     }
 
     public void init() throws IOException {

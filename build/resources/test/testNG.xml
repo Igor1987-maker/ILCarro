@@ -2,17 +2,12 @@
 
 <suite name="reg" verbose="1" >
 
-    <groups>
-        <run>
-            <include name="web"/>
-        </run>
-    </groups>
 
     <test name="reg" >
         <classes>
-            <class name="test.SecondaryRegistration" />
-            <class name="test.LoginTest" />
+
             <class name="test.AddNewCarTest" />
+            <class name="test.FindYourCarTest" />
             <class name="test.FindYourCarTest" />
 
         </classes>

@@ -5,9 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9a26064-9381-42a1-a121-0bf172e8ca9a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/SomeClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/aplication/MyListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/aplication/MyListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/test/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/test/LoginTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/reg/classes/test.AddNewCarTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/reg/classes/test.FindYourCarTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/reg/classes/test.LoginTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/reg/classes/test.LoginTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/reg/classes/test.SecondaryRegistration.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/reg/classes/test.SecondaryRegistration.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/reg/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/reg/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/reg/packages/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/reg/packages/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/test.AddNewCarTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/test/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/testNG.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/test/testNG.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/reg/TEST-test.AddNewCarTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/reg/TEST-test.FindYourCarTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/reg/TEST-test.LoginTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/reg/TEST-test.LoginTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/reg/TEST-test.SecondaryRegistration.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/reg/TEST-test.SecondaryRegistration.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/reg/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/reg/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/reg/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/reg/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/reg/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/reg/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-test.AddNewCarTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aplication/ApplicationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aplication/ApplicationManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aplication/MyListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aplication/MyListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aplication/SearchHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aplication/SearchHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/TestRent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/TestRent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/testNG.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/testNG.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,35 +87,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DemoQa_Qa29" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PhoneBook" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Qa29 Projects\ILCarro" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.AddNewCarTest.addNewCarSuccess">
-    <configuration name="AddNewCarTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;test.AddNewCarTest&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="TestNG.F:/Qa29 Projects/ILCarro/src/test/resources/testSiute.xml">
     <configuration name="AddNewCarTest.addNewCarSuccess" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -122,6 +140,27 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="TestRent" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;test.TestRent&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="TestRent.rentWithLogin" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -143,34 +182,23 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="TestRent.rentWithoutLogin" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;test.TestRent.rentWithoutLogin&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
+    <configuration name="F:/Qa29 Projects/ILCarro/src/test/resources/testSiute.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ILCarro.test" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testSiute.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.F:/Qa29 Projects/ILCarro/src/test/resources/testSiute.xml" />
+        <item itemvalue="Gradle.TestRent" />
+        <item itemvalue="Gradle.LoginTest.negativeLoginWrongPassword" />
         <item itemvalue="Gradle.AddNewCarTest.addNewCarSuccess" />
         <item itemvalue="Gradle.TestRent.rentWithLogin" />
-        <item itemvalue="Gradle.LoginTest.negativeLoginWrongPassword" />
-        <item itemvalue="Gradle.TestRent.rentWithoutLogin" />
-        <item itemvalue="Gradle.AddNewCarTest" />
       </list>
     </recent_temporary>
   </component>
