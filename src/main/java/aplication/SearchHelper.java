@@ -53,7 +53,7 @@ new WebDriverWait(wd,10)
       /*  Actions actions = new Actions(wd);
         actions.moveToElement(wd.findElement(By.cssSelector(".pac-item"))).click().perform();
         pause(500);*/  //one more variant
-
+//=============================================
     }
 
     public void selectDataInFuture(String city, String dataFrom, String dataTo){
